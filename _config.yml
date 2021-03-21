@@ -125,22 +125,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:nomadjin6706@gmail.com
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://github.com/JayKim3
 
 
 # Reading Files
@@ -152,7 +139,7 @@ exclude:
   - "*.sublime-workspace"
   - vendor
   - .asset-cache
-  - .bundle
+  - .bundle 
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/plugins
@@ -279,8 +266,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
-      related: true
+      share: false
+      related: false
 
 
    # _pages
@@ -291,7 +278,3 @@ defaults:
       values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: false
-      share: true
-      related: false
