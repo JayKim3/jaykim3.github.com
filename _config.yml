@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "SeongJin Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "백엔드 개발에 관심이 많은 프론트엔드 개발자 입니다."
+  avatar           : "/assets/images/my-profile.jpg"
+  bio              : "여러가지 끄적끄적..."
   location         : "Republic of Korea"
   email            : "nomadjin6706@gmail.com"
   links:
